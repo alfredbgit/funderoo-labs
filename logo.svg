@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <!-- Tree frog silhouette -->
+  <g transform="translate(4, 6)">
+    <!-- Body -->
+    <ellipse cx="22" cy="28" rx="14" ry="16" fill="#2D5A27"/>
+    <!-- Head -->
+    <ellipse cx="22" cy="14" rx="10" ry="10" fill="#2D5A27"/>
+    <!-- Left eye bump -->
+    <ellipse cx="15" cy="8" rx="6" ry="6" fill="#2D5A27"/>
+    <!-- Right eye bump -->
+    <ellipse cx="29" cy="8" rx="6" ry="6" fill="#2D5A27"/>
+    <!-- Left top arm -->
+    <ellipse cx="9" cy="18" rx="5" ry="4" fill="#2D5A27" transform="rotate(-30 9 18)"/>
+    <!-- Right top arm -->
+    <ellipse cx="35" cy="18" rx="5" ry="4" fill="#2D5A27" transform="rotate(30 35 18)"/>
+    <!-- Left bottom leg -->
+    <ellipse cx="10" cy="38" rx="5" ry="4" fill="#2D5A27" transform="rotate(20 10 38)"/>
+    <!-- Right bottom leg -->
+    <ellipse cx="34" cy="38" rx="5" ry="4" fill="#2D5A27" transform="rotate(-20 34 38)"/>
+    <!-- Left foot -->
+    <ellipse cx="4" cy="42" rx="4" ry="2.5" fill="#2D5A27"/>
+    <!-- Right foot -->
+    <ellipse cx="40" cy="42" rx="4" ry="2.5" fill="#2D5A27"/>
+    <!-- Eye whites -->
+    <circle cx="15" cy="8" r="3.5" fill="white"/>
+    <circle cx="29" cy="8" r="3.5" fill="white"/>
+    <!-- Pupils -->
+    <circle cx="15.5" cy="8" r="2" fill="#1A1A1A"/>
+    <circle cx="29.5" cy="8" r="2" fill="#1A1A1A"/>
+    <!-- Belly highlight -->
+    <ellipse cx="22" cy="30" rx="7" ry="9" fill="#3d7a38" opacity="0.4"/>
+  </g>
+  <!-- FL Lettermark -->
+  <text x="58" y="42" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#2D5A27">FL</text>
+</svg>
